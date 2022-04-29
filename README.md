@@ -1,5 +1,7 @@
 # Tic-Tac-Toe
 ## Preview:
+![appPreview](https://user-images.githubusercontent.com/97669160/166067905-8b243792-315c-4fd1-bf62-119a0502b363.PNG)
+![appPreview2](https://user-images.githubusercontent.com/97669160/166067916-53e9e7ab-6816-42ce-8ad9-aa3d9c2d6580.PNG)
 
 ## Project:
 This is a classic Tic-Tac-Toe game to play on the web with your friends!
@@ -17,8 +19,8 @@ Tic-tac-toe is a game in which two players take turns in drawing either an ' O' 
 
 ## Other aspects:
 In the development of the project, special attention was given to the correct application of semantics in its HTML structure.
+In addition, I also developed media queries to adapt the application responsively to different screens and devices.
 
 ## Next steps:
-> I'm improving its CSS styles to make it more atractive. Also I'm developing media queries to make sure the application will adapt responsively to any device screen. <br><br>
 > The next step that I have planned to implement in this application are improvements related to accessibility, as it is very important that it can be used properly by everyone! <br><br>
 > It's missing the favicon image.
