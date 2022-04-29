@@ -119,8 +119,8 @@ function restart()
 
     for (let i = 1; i <= 9; i++) {
         let square = document.getElementById(i);
-        square.style.background = '#eee';
-        square.style.color = '#eee';
+        square.style.background = 'rgb(228, 224, 224)';
+        square.style.color = 'rgb(228, 224, 224)';
         square.innerHTML = '-';
     }
 

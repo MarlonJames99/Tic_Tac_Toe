@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap');
+
+body {
+    text-align: center;
+    font-family: 'Source Serif Pro', serif;
+    background-color: rgb(191, 253, 233);
+}
+
+.square {
+    text-align: center;
+    width: 50px;
+    background: rgb(228, 224, 224);
+    display: inline-block;
+    padding: 25px;
+    font-size: 55px;
+    margin: 3px;
+    cursor: pointer;
+    color: rgb(228, 224, 224);
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.player {
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.winner {
+    font-size: 25px;
+}
+
+button {
+    font-family: 'Source Serif Pro', sans-serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 12px;
+    width: 100px;
+    padding: 8px;
+    background: rgb(228, 224, 224);
+    cursor: pointer;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 2px 1px 5px 1px rgba(0, 0, 0, 0.9);
+}
+
+button:hover {
+    box-shadow: 3px 2px 4px 1px rgba(0, 0, 0, 0.9);
+}
+
+button:focus {
+    background-color: rgb(191, 253, 233);
+    box-shadow: none;
+}
+
+img {
+    width: 200px;
+    margin: 5px 0 12px 0;
+}
+
+@media only screen and (max-width: 900px) {
+    .square {
+        width: 13%;
+        margin: 5px;
+    }
+    button {
+        width: 20%;
+        font-size: 30px;
+        padding: 10px;
+    }
+    .player, .winner {
+        font-size: 35px;
+    }
+    img {
+        width: 350px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    button {
+        width: 30%;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .square {
+        width: 10%;
+        margin: 3px;
+    }
+    button {
+        font-size: 16px;
+        padding: 8px;
+    }
+    .player, .winner {
+        font-size: 20px;
+    }
+    img {
+        width: 250px;
+    }
+}
+
