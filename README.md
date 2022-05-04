@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 ## Preview:
-![appPreview](https://user-images.githubusercontent.com/97669160/166067905-8b243792-315c-4fd1-bf62-119a0502b363.PNG)
-![appPreview2](https://user-images.githubusercontent.com/97669160/166067916-53e9e7ab-6816-42ce-8ad9-aa3d9c2d6580.PNG)
+![tttpreview](https://user-images.githubusercontent.com/97669160/166625886-ff5ee692-e69e-46b5-affd-f56f0268a849.PNG)
+![tttpreview2](https://user-images.githubusercontent.com/97669160/166625900-a9a9bb15-ad4a-4c0a-baac-b545a2f6acd4.PNG)
 
 ## Project:
 This is a classic Tic-Tac-Toe game to play on the web with your friends!
