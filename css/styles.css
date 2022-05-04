@@ -22,7 +22,7 @@ body {
 
 .player {
     font-size: 25px;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .winner {
@@ -31,11 +31,11 @@ body {
 
 button {
     font-family: 'Source Serif Pro', sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     text-transform: uppercase;
     font-weight: bold;
-    margin-top: 12px;
-    width: 100px;
+    margin-top: 20px;
+    width: 120px;
     padding: 8px;
     background: rgb(228, 224, 224);
     cursor: pointer;
@@ -54,8 +54,8 @@ button:focus {
 }
 
 img {
-    width: 200px;
-    margin: 5px 0 12px 0;
+    width: 220px;
+    margin: 20px 0 12px 0;
 }
 
 @media only screen and (max-width: 900px) {
