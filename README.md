@@ -10,6 +10,8 @@ The game is not online so you and your friend would need to be playing on the sa
 ### Rules: <br>
 Tic-tac-toe is a game in which two players take turns in drawing either an ' O' or an ' X' in one square of a grid consisting of nine squares. The winner is the first player to get three of the same symbols in a row.
 
+### Game link: https://marlonjames99.github.io/Tic_Tac_Toe/
+
 ## Tecnologies:
 <div style="display: inline_block">
 <img align="center" alt="James-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
